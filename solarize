@@ -25,7 +25,7 @@ CYAN = '#2AA198'
 GREEN = '#859900'
 # 16 colors palette
 PALETTE = [BASE02, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, BASE2,
-           BASE03, ORANGE, BASE01, BASE00, BASE0, VIOLET, BASE1, BASE3]
+           BASE01, ORANGE, BASE01, BASE00, BASE0, VIOLET, BASE1, BASE3]
 SCHEMES = {'dark': {'background_color': BASE03,
                     'foreground_color': BASE0,
                     'bold_color': BASE1},
